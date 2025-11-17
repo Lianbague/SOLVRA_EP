@@ -2,6 +2,7 @@
 
 ## DIARI DE DESENVOLUPAMENT
 17/11/25:
+
 ✓
 
 TODO:
