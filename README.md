@@ -2,7 +2,8 @@
 
 ## DIARI DE DESENVOLUPAMENT
 17/11/25:
-<img width="1537" height="871" alt="image" src="https://github.com/user-attachments/assets/17081275-045e-4dde-adf0-6336a8b75b6c" />
+
+<img width="1537" height="871" alt="image" src="https://github.com/user-attachments/assets/5cc2853d-976f-4a74-969f-ab492336c176" />
 
 ✓
 
