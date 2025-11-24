@@ -10,3 +10,5 @@ Hem fet una reunió per validar la feina feta entre tots els integrants.
 <img width="1107" height="557" alt="image" src="https://github.com/user-attachments/assets/3f5136a0-3565-4f47-9ebb-91028e4c9d2e" />
 
 
+Sprint 2
+<img width="811" height="433" alt="Screenshot 2025-11-24 at 18 26 51" src="https://github.com/user-attachments/assets/9438eb79-0ecb-4d3c-9b98-7952c0c9a09d" />
